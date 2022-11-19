@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsLabs", "DevOpsLabs\De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsLabsTests", "DevOpsLabsTests\DevOpsLabsTests.csproj", "{C79D032B-CF3B-46BB-BE46-61F1563F32E6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevOpsLabs.API", "DevOpsLabs.API\DevOpsLabs.API.csproj", "{5A3F899D-A446-4A6E-B859-C1AB16A4D035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C79D032B-CF3B-46BB-BE46-61F1563F32E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C79D032B-CF3B-46BB-BE46-61F1563F32E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C79D032B-CF3B-46BB-BE46-61F1563F32E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3F899D-A446-4A6E-B859-C1AB16A4D035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3F899D-A446-4A6E-B859-C1AB16A4D035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3F899D-A446-4A6E-B859-C1AB16A4D035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3F899D-A446-4A6E-B859-C1AB16A4D035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
